@@ -1,4 +1,4 @@
-Crockstrap
+Firestrap
 
 A lightweight, feature-rich, and highly customizable bootstrapper for Roblox, inspired by the excellence of Bloxstrap, Froststrap, and Fishstrap.
 
